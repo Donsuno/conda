@@ -1,0 +1,6 @@
+Type: IPython Notebook Extension
+Name: codefolding
+Link: README.md
+Description: 
+Main: main.js
+Compatibility: 4.x, 5.x
