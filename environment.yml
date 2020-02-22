@@ -6,6 +6,7 @@ dependencies:
   - ipywidgets
   - pandas
   - xlrd
+  - xlsxwriter
   - matplotlib
   - plotly
   - IPython
