@@ -5,6 +5,7 @@ dependencies:
   - numpy
   - ipywidgets
   - pandas
+  - xlrd
   - matplotlib
   - plotly
   - IPython
